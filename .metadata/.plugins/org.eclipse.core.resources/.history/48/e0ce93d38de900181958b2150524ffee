@@ -1,0 +1,9 @@
+package com.javabegin.training.spring.objects.src.main.resource.start;
+
+public class RobotManager {
+	
+	public static void main(String[] args) {
+		Robot robot = new Robot();
+		robot.action();
+	}
+}

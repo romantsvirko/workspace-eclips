@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\Romik\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3298085451.index
+\RobotImpl2\src\main\resources
+C:\Users\Romik\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2534314447.index
+\RobotImpl1\src\main\resources
+C:\Users\Romik\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3429049350.index
+\com.yet.spring.core\src\main\resources
+C:\Users\Romik\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3288891016.index
+\TestMavenWeb\src\main\resources

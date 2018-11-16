@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+    <persons>
+        <person atr1="123" atr2="567">
+            <firstName>Roman</firstname>
+            <lastName>Tsvirko</lastName>
+            <birthDate>27.10.1977</birthDate>
+            <phones>
+                <phone type="mobile">1</phone>
+                <phone type="office">2</phone>
+                <phone type="home">3</phone>       
+            </phones>
+        </person>
+        <person>
+            <firstName>Roman</firstname>
+            <lastName>Tsvirko</lastName>
+        </person>
+        <person>
+            <firstName>Roman</firstname>
+            <lastName>Tsvirko</lastName>
+        </person>
+        <person>
+            <firstName>Roman</firstname>
+            <lastName>Tsvirko</lastName>
+        </person>
+    </persons>
+</root>
